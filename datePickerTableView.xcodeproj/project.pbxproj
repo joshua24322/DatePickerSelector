@@ -11,7 +11,6 @@
 		2D23447D21C752B000CE4450 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2D23447B21C752B000CE4450 /* Main.storyboard */; };
 		2D23447F21C752CB00CE4450 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2D23447E21C752CB00CE4450 /* Assets.xcassets */; };
 		2D23448221C752CB00CE4450 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2D23448021C752CB00CE4450 /* LaunchScreen.storyboard */; };
-		2D23448A21C7545200CE4450 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D23448921C7545200CE4450 /* TableViewController.swift */; };
 		2D23448C21C7B02200CE4450 /* DatePickerTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D23448B21C7B02200CE4450 /* DatePickerTableViewController.swift */; };
 		2D5EEA9421CA2ACA003B01FD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D5EEA9321CA2ACA003B01FD /* ViewController.swift */; };
 		2D5EEA9621CA2C2C003B01FD /* DatePickerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D5EEA9521CA2C2C003B01FD /* DatePickerViewController.swift */; };
@@ -25,7 +24,6 @@
 		2D23447E21C752CB00CE4450 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2D23448121C752CB00CE4450 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2D23448321C752CB00CE4450 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		2D23448921C7545200CE4450 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 		2D23448B21C7B02200CE4450 /* DatePickerTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerTableViewController.swift; sourceTree = "<group>"; };
 		2D5EEA9321CA2ACA003B01FD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		2D5EEA9521CA2C2C003B01FD /* DatePickerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerViewController.swift; sourceTree = "<group>"; };
@@ -63,7 +61,6 @@
 			isa = PBXGroup;
 			children = (
 				2D23447721C752AF00CE4450 /* AppDelegate.swift */,
-				2D23448921C7545200CE4450 /* TableViewController.swift */,
 				2D23448B21C7B02200CE4450 /* DatePickerTableViewController.swift */,
 				2D5EEA9321CA2ACA003B01FD /* ViewController.swift */,
 				2D5EEA9521CA2C2C003B01FD /* DatePickerViewController.swift */,
@@ -152,7 +149,6 @@
 				2D5EEA9621CA2C2C003B01FD /* DatePickerViewController.swift in Sources */,
 				2D23448C21C7B02200CE4450 /* DatePickerTableViewController.swift in Sources */,
 				2D5EEA9421CA2ACA003B01FD /* ViewController.swift in Sources */,
-				2D23448A21C7545200CE4450 /* TableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
